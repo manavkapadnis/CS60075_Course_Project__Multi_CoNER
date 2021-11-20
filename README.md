@@ -1,1 +1,1 @@
-# CS60075_Course_Project_SemEval_task_11_Multi_CoNER
+# CS60075_Course_Project_Multi_CoNER
