@@ -35,7 +35,7 @@ Group members:
 ├── README.md
 ```
 
-## Obtaining the code and data
+## Obtaining the code and data ---
 
 First, clone this repository
 ```
