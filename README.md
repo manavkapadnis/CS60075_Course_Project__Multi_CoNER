@@ -19,14 +19,11 @@ Group members:
 |    └── en_train_features.csv
 |    └── hn_dev_features.csv
 |    └── hn_train_features.csv
-
 ├── Code With Outputs/
 |    ├── Additional Features Implementation Code.ipynb
 |    ├── Baseline Code.ipynb
 |    └── Fine Tuning Dense Layers Code.ipynb
 |    └── Transformers+BiLSTM-CRF Code.ipynb
-
-
 ├── src/
 |    ├── data_reader.py
 |    ├── global_var.py
