@@ -27,6 +27,8 @@ class Args():
         
         self.max_instances = -1
         self.max_length = 50
+        # here if you are implemeting the additional features model
+        # then set additional_features as True
         self.additional_features = False
 
         self.hidden_layer_sizes = [512, 256, 128]
